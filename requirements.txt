@@ -5,6 +5,6 @@ pandas
 pyyaml
 pytest
 tox
-flask8
+# flask8
 flask
 gunicorn
